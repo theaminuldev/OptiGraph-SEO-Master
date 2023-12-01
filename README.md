@@ -1,1 +1,1 @@
-# OptiGraph-SEO-Manager
+# OptiGraph-SEO-Master
