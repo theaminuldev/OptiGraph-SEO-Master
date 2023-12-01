@@ -1,0 +1,1 @@
+# OptiGraph-SEO-Manager
